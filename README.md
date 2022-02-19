@@ -10,4 +10,4 @@ To use this library copy the Hamming directory into the Arduino library director
 
 ### Who do I talk to? ###
 
-* http://hykrion.com
+* http://hykrion.com/files/docs/hamming.pdf
